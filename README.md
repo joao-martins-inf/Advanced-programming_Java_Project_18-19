@@ -19,6 +19,7 @@ a minimizar a distância, ou o custo do mesmo.
 
 English:
 
+project made by: João Martins and David Távares in JAVA NetBeansIDE 8.2
 
 The project consists on the development of a desktop application for generating
 routes in a biological park and give the client the respective ticket.
